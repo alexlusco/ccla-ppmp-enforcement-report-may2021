@@ -469,3 +469,28 @@ ont_data %>%
            date_formatted == as.Date("2021-02-01")) %>%
   summarize(charges = sum(as.numeric(charges))) %>%
   mutate(wave2_rate_per_1000 = as.numeric(charges)/13448494*1000) #rate per 1000 using 2016 census data
+
+# covid active case rate plot
+cov_data <- read_csv("covid19-data-april-27-2021.csv") %>%
+  select(prname, date, numtotal, numtoday, numconf, avgtotal_last7, numtotal_last7, rateactive) %>%
+  filter(!prname %in% c("Repatriated travellers"))
+
+cov_data %>%
+  filter(date >= "2020-04-01") %>%
+  filter(prname %in% c("Canada", "Quebec", "Ontario", "British Columbia", "Manitoba", "Nova Scotia")) %>%
+  mutate(prname = factor(prname, levels = c("Canada", "British Columbia", "Manitoba", "Ontario", "Quebec", "Nova Scotia"))) %>%
+  ggplot(aes(x = date, y = rateactive)) +
+  geom_line(colour = "#094E9F", size = 0.75) +
+  facet_wrap(~prname) +
+  theme_minimal() +
+  scale_x_date(breaks = seq(as.Date("2020-04-01"), as.Date("2021-04-26"), by = "1 month"), date_labels = "%b %Y") +
+  scale_y_continuous(labels = scales::comma) +
+  theme(axis.text.x = element_text(angle = 90, hjust=0.95, vjust=0.2)) +
+  theme(plot.title = element_text(face = "bold")) +
+  labs(title = "Rate of active COVID-19 cases",
+       subtitle = "April 01 2020 - April 26 2021. Shading indicates wave 2 period, as defined in report.",
+       caption = "Data source: Government of Canada",
+       y = "Rate of active cases",
+       x = "") +
+  annotate("rect", xmin = as.Date("2020-09-01"), xmax = as.Date("2021-03-31"), ymin = 0, ymax = Inf, alpha = .2)
+
