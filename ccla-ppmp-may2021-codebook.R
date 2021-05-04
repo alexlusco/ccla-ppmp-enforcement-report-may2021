@@ -26,7 +26,7 @@ library(lubridate)
 library(fishualize)
 library(here)
 
-# read in data
+# read in enforcement data
 master_df <- read_csv("ccla_official_data_march2021.csv")
 
 # Toronto, Ontario
@@ -471,10 +471,12 @@ ont_data %>%
   mutate(wave2_rate_per_1000 = as.numeric(charges)/13448494*1000) #rate per 1000 using 2016 census data
 
 # covid active case rate plot
+# read in covid19 data
 cov_data <- read_csv("covid19-data-april-27-2021.csv") %>%
   select(prname, date, numtotal, numtoday, numconf, avgtotal_last7, numtotal_last7, rateactive) %>%
   filter(!prname %in% c("Repatriated travellers"))
 
+# plot covid active case rates for Canada, Quebec, Ontario, BC, Manitoba, Nova Scotia
 cov_data %>%
   filter(date >= "2020-04-01") %>%
   filter(prname %in% c("Canada", "Quebec", "Ontario", "British Columbia", "Manitoba", "Nova Scotia")) %>%
