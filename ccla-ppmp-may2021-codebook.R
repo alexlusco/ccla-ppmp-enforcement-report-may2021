@@ -27,7 +27,7 @@ library(fishualize)
 library(here)
 
 # read in enforcement data
-master_df <- read_csv("ccla_official_data_march2021.csv")
+master_df <- read_csv("covid_enforcement_data_march2021")
 
 # Toronto, Ontario
 toronto_data <- master_df %>%
