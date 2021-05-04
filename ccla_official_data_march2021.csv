@@ -1,0 +1,260 @@
+date_raw,date_formatted,complaints,education,notices,education_notices,charges,individual_cost,cost_total,legislation,violation,violation_recoded,city,province,ranking
+"March, 2021","March, 2021",,,,,4,,,EMCPA/Reopening Ontario Act,business operations,business operations,toronto,ontario,
+"February, 2021","February, 2021",682,56,11,67,19,,,EMCPA/Reopening Ontario Act,business operations,business operations,toronto,ontario,
+"January, 2021","January, 2021",1141,58,19,77,49,,,EMCPA/Reopening Ontario Act,business operations,business operations,toronto,ontario,
+"December, 2020","December, 2020",1447,65,33,98,90,,,EMCPA/Reopening Ontario Act,business operations,business operations,toronto,ontario,
+"November, 2020","November, 2020",1304,26,42,68,32,,,EMCPA/Reopening Ontario Act,business operations,business operations,toronto,ontario,
+"October, 2020","October, 2020",997,15,47,62,23,,,EMCPA/Reopening Ontario Act,business operations,business operations,toronto,ontario,
+"September, 2020","September, 2020",857,5,24,29,1,,,EMCPA/Reopening Ontario Act,business operations,business operations,toronto,ontario,
+"August, 2020","August, 2020",679,145,22,167,1,,,EMCPA/Reopening Ontario Act,business operations,business operations,toronto,ontario,
+"July, 2020","July, 2020",1002,162,90,252,2,,,EMCPA/Reopening Ontario Act,business operations,business operations,toronto,ontario,
+"June, 2020","June, 2020",904,101,30,131,22,,,EMCPA/Reopening Ontario Act,business operations,business operations,toronto,ontario,
+"May, 2020","May, 2020",1384,291,56,347,29,,,EMCPA/Reopening Ontario Act,business operations,business operations,toronto,ontario,
+"April, 2020","April, 2020",1877,5,111,116,82,,,EMCPA/Reopening Ontario Act,business operations,business operations,toronto,ontario,
+"March, 2021","March, 2021",,,,,7,,,Municipal Code Ch. 550,food and drink establishment,business operations,toronto,ontario,
+"February, 2021 (only to Feb 17)","February, 2021",219,0,197,197,2,,,Municipal Code Ch. 551,food and drink establishment,business operations,toronto,ontario,
+"January, 2021","January, 2021",257,0,158,158,5,,,Municipal Code Ch. 552,food and drink establishment,business operations,toronto,ontario,
+"December, 2020","December, 2020",328,,109,109,7,,,Municipal Code Ch. 553,food and drink establishment,business operations,toronto,ontario,
+"November, 2020","November, 2020",427,,104,104,24,,,Municipal Code Ch. 554,food and drink establishment,business operations,toronto,ontario,
+"October, 2020","October, 2020",530,,104,104,13,,,Municipal Code Ch. 555,food and drink establishment,business operations,toronto,ontario,
+"September, 2020","September, 2020",472,,77,77,10,,,Municipal Code Ch. 556,food and drink establishment,business operations,toronto,ontario,
+"August, 2020","August, 2020",285,,46,46,0,,,Municipal Code Ch. 557,food and drink establishment,business operations,toronto,ontario,
+"July, 2020","July, 2020",481,,49,49,7,,,Municipal Code Ch. 558,food and drink establishment,business operations,toronto,ontario,
+"June, 2020","June, 2020",346,,34,34,18,,,Municipal Code Ch. 559,food and drink establishment,business operations,toronto,ontario,
+"May, 2020","May, 2020",519,,49,49,22,,,Municipal Code Ch. 552,food and drink establishment,business operations,toronto,ontario,
+"April, 2020","April, 2020",614,,29,29,14,,,Municipal Code Ch. 553,food and drink establishment,business operations,toronto,ontario,
+"March, 2021","March, 2021",,,,,60,,,Reopening Ontario Act,size of gatherings,size of gathering,toronto,ontario,
+"February, 2021 (only to Feb 17)","February, 2021",534,20,170,190,123,,,Reopening Ontario Act,size of gatherings,size of gathering,toronto,ontario,
+"January, 2021","January, 2021",578,9,49,58,84,,,Reopening Ontario Act,size of gatherings,size of gathering,toronto,ontario,
+"December, 2020","December, 2020",837,15,122,137,65,,,Reopening Ontario Act,size of gatherings,size of gathering,toronto,ontario,
+"November, 2020","November, 2020",403,5,16,21,59,,,Reopening Ontario Act,size of gatherings,size of gathering,toronto,ontario,
+"October, 2020","October, 2020",307,1,62,53,5,,,Reopening Ontario Act,size of gatherings,size of gathering,toronto,ontario,
+"September 25-30, 2020","September 25-30, 2020",66,,,,,,,Reopening Ontario Act,size of gatherings,size of gathering,toronto,ontario,
+"March, 2021","March, 2021",,,,,0,,,EMCPA,large park gatherings,size of gathering,toronto,ontario,
+"February, 2021 (only to Feb 17)","February, 2021",92,149,0,149,11,,,EMCPA,large park gatherings,size of gathering,toronto,ontario,
+"January, 2021","January, 2021",109,51,0,52,38,,,EMCPA,large park gatherings,size of gathering,toronto,ontario,
+"December, 2020","December, 2020",83,1,0,1,7,,,EMCPA,large park gatherings,size of gathering,toronto,ontario,
+"November, 2020","November, 2020",73,8,0,8,2,,,EMCPA,large park gatherings,size of gathering,toronto,ontario,
+"October, 2020","October, 2020",72,137,0,137,0,,,EMCPA,large park gatherings,size of gathering,toronto,ontario,
+"September, 2020","September, 2020",136,117,0,117,0,,,EMCPA,large park gatherings,size of gathering,toronto,ontario,
+"August, 2020","August, 2020",80,140,0,140,0,,,EMCPA,large park gatherings,size of gathering,toronto,ontario,
+"July, 2020","July, 2020",352,901,11,912,0,,,EMCPA/Reopening Ontario Act,large park gatherings,size of gathering,toronto,ontario,
+"June, 2020","June, 2020",600,1180,0,1180,2,,,EMCPA/Reopening Ontario Act,large park gatherings,size of gathering,toronto,ontario,
+"May, 2020","May, 2020",721,653,23,676,22,,,EMCPA/Reopening Ontario Act,large park gatherings,size of gathering,toronto,ontario,
+"April, 2020","April, 2020",785,75,1,76,81,,,EMCPA/Reopening Ontario Act,large park gatherings,size of gathering,toronto,ontario,
+"March, 2021","March, 2021",,,,,2,,,Municipal Code Ch. 606,parks and public squares,use of parks and amenities,toronto,ontario,
+"February, 2021 (only to Feb 17)","February, 2021",34,15,0,15,0,,,Municipal Code Ch. 607,parks and public squares,use of parks and amenities,toronto,ontario,
+"January, 2021","January, 2021",56,12,0,12,0,,,Municipal Code Ch. 608,parks and public squares,use of parks and amenities,toronto,ontario,
+"December, 2020","December, 2020",31,10,0,10,0,,,Municipal Code Ch. 609,parks and public squares,use of parks and amenities,toronto,ontario,
+"November, 2020","November, 2020",23,4,0,4,0,,,Municipal Code Ch. 610,parks and public squares,use of parks and amenities,toronto,ontario,
+"October, 2020","October, 2020",24,251,0,251,0,,,Municipal Code Ch. 611,parks and public squares,use of parks and amenities,toronto,ontario,
+"September, 2020","September, 2020",70,595,8,603,4,,,Municipal Code Ch. 612,parks and public squares,use of parks and amenities,toronto,ontario,
+"August, 2020","August, 2020",39,465,3,468,3,,,Municipal Code Ch. 613,parks and public squares,use of parks and amenities,toronto,ontario,
+"July, 2020","July, 2020",121,824,15,839,5,,,Municipal Code Ch. 614,parks and public squares,use of parks and amenities,toronto,ontario,
+"June, 2020","June, 2020",290,1875,1,1876,4,,,Municipal Code Ch. 615,parks and public squares,use of parks and amenities,toronto,ontario,
+"May, 2020","May, 2020",709,2604,2,2606,15,,,Municipal Code Ch. 616,parks and public squares,use of parks and amenities,toronto,ontario,
+"April, 2020","April, 2020",1381,927,0,927,92,,,Municipal Code Ch. 617,parks and public squares,use of parks and amenities,toronto,ontario,
+"March, 2021","March, 2021",,,,,6,,,EMCPA,amenities and parks,use of parks and amenities,toronto,ontario,
+"February, 2021 (only to Feb 17)","February, 2021",427,131,0,131,4,,,EMCPA,amenities and parks,use of parks and amenities,toronto,ontario,
+"January, 2021","January, 2021",309,77,1,78,1,,,EMCPA,amenities and parks,use of parks and amenities,toronto,ontario,
+"December, 2020","December, 2020",317,,0,0,0,,,EMCPA,amenities and parks,use of parks and amenities,toronto,ontario,
+"November, 2020","November, 2020",408,60,2,62,7,,,EMCPA,amenities and parks,use of parks and amenities,toronto,ontario,
+"October, 2020","October, 2020",461,409,14,423,5,,,EMCPA,amenities and parks,use of parks and amenities,toronto,ontario,
+"September, 2020","September, 2020",850,2177,7,2184,59,,,EMCPA,amenities and parks,use of parks and amenities,toronto,ontario,
+"August, 2020","August, 2020",1227,5679,77,5756,49,,,EMCPA,amenities and parks,use of parks and amenities,toronto,ontario,
+"July, 2020","July, 2020",1963,8004,16,8020,142,,,EMCPA,amenities and parks,use of parks and amenities,toronto,ontario,
+"June, 2020","June, 2020",2124,6461,47,6508,173,,,EMCPA,amenities and parks,use of parks and amenities,toronto,ontario,
+"May, 2020","May, 2020",2476,4056,42,4098,151,,,EMCPA,amenities and parks,use of parks and amenities,toronto,ontario,
+"April, 2020","April, 2020",7537,13465,36,13501,410,,,EMCPA,amenities and parks,use of parks and amenities,toronto,ontario,
+"March, 2021","March, 2021",542,,,10,55,,,bylaw,,,ottawa,ontario,
+"February, 2021","February, 2021",636,,,34,36,,,bylaw,,,ottawa,ontario,
+"January, 2021","January, 2021",1360,,,39,39,,,bylaw,,,ottawa,ontario,
+"December, 2020","December, 2020",647,,,17,38,,,bylaw,,,ottawa,ontario,
+"November, 2020","November, 2020",414,,,2,7,,,bylaw,,,ottawa,ontario,
+"October, 2020","October, 2020",795,,,15,40,,,bylaw,,,ottawa,ontario,
+"September, 2020","September, 2020",459,,,5,5,,,bylaw,,,ottawa,ontario,
+"August, 2020","August, 2020",499,,,44,2,,,bylaw,,,ottawa,ontario,
+"July, 2020","July, 2020",634,,,68,1,,,bylaw,,,ottawa,ontario,
+"June, 2020","June, 2020",968,,,124,10,,,bylaw,,,ottawa,ontario,
+"May, 2020","May, 2020",2425,,,467,14,,,bylaw,,,ottawa,ontario,
+"April, 2020","April, 2020",4142,,,357,117,,,bylaw,,,ottawa,ontario,
+"March, 2020","March, 2020",132,,,31,0,,,bylaw,,,ottawa,ontario,
+"February, 2021 (only to Feb 26)","February, 2021",,,,76,7,,,,public health act,,edmonton,alberta,
+"January, 2021","January, 2021",,,,284,12,,,,public health act,,edmonton,alberta,
+"December, 2020","December, 2020",,,,18,5,,,,public health act,,edmonton,alberta,
+"November, 2020","November, 2020",,,,7,0,,,,public health act,,edmonton,alberta,
+"October, 2020","October, 2020",,,,2,0,,,,public health act,,edmonton,alberta,
+"September, 2020","September, 2020",,,,2,0,,,,public health act,,edmonton,alberta,
+"August, 2020","August, 2020",,,,2,0,,,,public health act,,edmonton,alberta,
+"February, 2021 (only to Feb 26)","February, 2021",,,,413,43,,,,face covering bylaw,,edmonton,alberta,
+"January, 2021","January, 2021",,,,809,147,,,,face covering bylaw,,edmonton,alberta,
+"December, 2020","December, 2020",,,,398,81,,,,face covering bylaw,,edmonton,alberta,
+"November, 2020","November, 2020",,,,1502,86,,,,face covering bylaw,,edmonton,alberta,
+"October, 2020","October, 2020",,,,1939,91,,,,face covering bylaw,,edmonton,alberta,
+"September, 2020","September, 2020",,,,1743,88,,,,face covering bylaw,,edmonton,alberta,
+"August, 2020","August, 2020",,,,2559,90,,,,face covering bylaw,,edmonton,alberta,
+"March, 2021","March, 2021",,,,,3309,1521.699607,"5,035,304",,,,,quebec,
+"February, 2021 (only to Feb 15)","February, 2021",,,,,2865,1530.576974,"5,348,558",,,,,quebec,
+"January, 2021","January, 2021",,,,,1010,1508.15,"1,523,236",,,,,quebec,
+"December, 2020","December, 2020",,,,,141,1564.29,"220,565",,,,,quebec,
+"November, 2020","November, 2020",,,,,94,1407.9,"132,343",,,,,quebec,
+"October, 2020","October, 2020",,,,,26,913.38,"23,748",,,,,quebec,
+April 2020 to September 2020,"September, 2020",,,,,3756,1466.26,"5,507,255",,,,,quebec,
+"March, 2020","March, 2020",,,,,,582.5,,EMA 23(a),Failing to comply with the Act/any regulations  ,,,nova scotia,
+"April, 2020","April, 2020",,,,,26,582.5,,EMA 23(a),Failing to comply with the Act/any regulations  ,,,nova scotia,
+"May, 2020","May, 2020",,,,,5,582.5,,EMA 23(a),Failing to comply with the Act/any regulations  ,,,nova scotia,
+"June, 2020","June, 2020",,,,,1,582.5,,EMA 23(a),Failing to comply with the Act/any regulations  ,,,nova scotia,
+"July, 2020","July, 2020",,,,,,582.5,,EMA 23(a),Failing to comply with the Act/any regulations  ,,,nova scotia,
+"August, 2020","August, 2020",,,,,1,582.5,,EMA 23(a),Failing to comply with the Act/any regulations  ,,,nova scotia,
+"September, 2020","September, 2020",,,,,,582.5,,EMA 23(a),Failing to comply with the Act/any regulations  ,,,nova scotia,
+"October, 2020","October, 2020",,,,,5,582.5,,EMA 23(a),Failing to comply with the Act/any regulations  ,,,nova scotia,
+"November, 2020","November, 2020",,,,,4,582.5,,EMA 23(a),Failing to comply with the Act/any regulations  ,,,nova scotia,
+"December, 2020","December, 2020",,,,,1,582.5,,EMA 23(a),Failing to comply with the Act/any regulations  ,,,nova scotia,
+"January, 2021","January, 2021",,,,,,582.5,,EMA 23(a),Failing to comply with the Act/any regulations  ,,,nova scotia,
+"February, 2021","February, 2021",,,,,1,582.5,,EMA 23(a),Failing to comply with the Act/any regulations  ,,,nova scotia,
+"March, 2020","March, 2020",,,,,5,697.5,,EMA 23(b),"Failing to comply with direction, order or requirement made under the Act/regulations      ",,,nova scotia,
+"April, 2020","April, 2020",,,,,115,697.5,,EMA 23(b),"Failing to comply with direction, order or requirement made under the Act/regulations      ",,,nova scotia,
+"May, 2020","May, 2020",,,,,9,697.5,,EMA 23(b),"Failing to comply with direction, order or requirement made under the Act/regulations      ",,,nova scotia,
+"June, 2020","June, 2020",,,,,2,697.5,,EMA 23(b),"Failing to comply with direction, order or requirement made under the Act/regulations      ",,,nova scotia,
+"July, 2020","July, 2020",,,,,3,697.5,,EMA 23(b),"Failing to comply with direction, order or requirement made under the Act/regulations      ",,,nova scotia,
+"August, 2020","August, 2020",,,,,3,697.5,,EMA 23(b),"Failing to comply with direction, order or requirement made under the Act/regulations      ",,,nova scotia,
+"September, 2020","September, 2020",,,,,1,697.5,,EMA 23(b),"Failing to comply with direction, order or requirement made under the Act/regulations      ",,,nova scotia,
+"October, 2020","October, 2020",,,,,18,697.5,,EMA 23(b),"Failing to comply with direction, order or requirement made under the Act/regulations      ",,,nova scotia,
+"November, 2020","November, 2020",,,,,10,697.5,,EMA 23(b),"Failing to comply with direction, order or requirement made under the Act/regulations      ",,,nova scotia,
+"December, 2020","December, 2020",,,,,2,697.5,,EMA 23(b),"Failing to comply with direction, order or requirement made under the Act/regulations      ",,,nova scotia,
+"January, 2021","January, 2021",,,,,4,697.5,,EMA 23(b),"Failing to comply with direction, order or requirement made under the Act/regulations      ",,,nova scotia,
+"February, 2021","February, 2021",,,,,2,697.5,,EMA 23(b),"Failing to comply with direction, order or requirement made under the Act/regulations      ",,,nova scotia,
+"March, 2020","March, 2020",,,,,1,7500,,HPA 71(a),Corporation failing to comply with Part I of Act or regulations or with order made under Part I of Act (specify),,,nova scotia,
+"April, 2020","April, 2020",,,,,,7500,,HPA 71(a),Corporation failing to comply with Part I of Act or regulations or with order made under Part I of Act (specify),,,nova scotia,
+"May, 2020","May, 2020",,,,,,7500,,HPA 71(a),Corporation failing to comply with Part I of Act or regulations or with order made under Part I of Act (specify),,,nova scotia,
+"June, 2020","June, 2020",,,,,,7500,,HPA 71(a),Corporation failing to comply with Part I of Act or regulations or with order made under Part I of Act (specify),,,nova scotia,
+"July, 2020","July, 2020",,,,,,7500,,HPA 71(a),Corporation failing to comply with Part I of Act or regulations or with order made under Part I of Act (specify),,,nova scotia,
+"August, 2020","August, 2020",,,,,,7500,,HPA 71(a),Corporation failing to comply with Part I of Act or regulations or with order made under Part I of Act (specify),,,nova scotia,
+"September, 2020","September, 2020",,,,,,7500,,HPA 71(a),Corporation failing to comply with Part I of Act or regulations or with order made under Part I of Act (specify),,,nova scotia,
+"October, 2020","October, 2020",,,,,1,7500,,HPA 71(a),Corporation failing to comply with Part I of Act or regulations or with order made under Part I of Act (specify),,,nova scotia,
+"November, 2020","November, 2020",,,,,,7500,,HPA 71(a),Corporation failing to comply with Part I of Act or regulations or with order made under Part I of Act (specify),,,nova scotia,
+"December, 2020","December, 2020",,,,,2,7500,,HPA 71(a),Corporation failing to comply with Part I of Act or regulations or with order made under Part I of Act (specify),,,nova scotia,
+"January, 2021","January, 2021",,,,,1,7500,,HPA 71(a),Corporation failing to comply with Part I of Act or regulations or with order made under Part I of Act (specify),,,nova scotia,
+"February, 2021","February, 2021",,,,,2,7500,,HPA 71(a),Corporation failing to comply with Part I of Act or regulations or with order made under Part I of Act (specify),,,nova scotia,
+"March, 2020","March, 2020",,,,,2,1000,,HPA 71(b),Person failing to comply with Part I of Act or regulations or with order made under Part I of Act (specify),,,nova scotia,
+"April, 2020","April, 2020",,,,,298,1000,,HPA 71(b),Person failing to comply with Part I of Act or regulations or with order made under Part I of Act (specify),,,nova scotia,
+"May, 2020","May, 2020",,,,,124,1000,,HPA 71(b),Person failing to comply with Part I of Act or regulations or with order made under Part I of Act (specify),,,nova scotia,
+"June, 2020","June, 2020",,,,,59,1000,,HPA 71(b),Person failing to comply with Part I of Act or regulations or with order made under Part I of Act (specify),,,nova scotia,
+"July, 2020","July, 2020",,,,,22,1000,,HPA 71(b),Person failing to comply with Part I of Act or regulations or with order made under Part I of Act (specify),,,nova scotia,
+"August, 2020","August, 2020",,,,,14,1000,,HPA 71(b),Person failing to comply with Part I of Act or regulations or with order made under Part I of Act (specify),,,nova scotia,
+"September, 2020","September, 2020",,,,,26,1000,,HPA 71(b),Person failing to comply with Part I of Act or regulations or with order made under Part I of Act (specify),,,nova scotia,
+"October, 2020","October, 2020",,,,,29,1000,,HPA 71(b),Person failing to comply with Part I of Act or regulations or with order made under Part I of Act (specify),,,nova scotia,
+"November, 2020","November, 2020",,,,,20,1000,,HPA 71(b),Person failing to comply with Part I of Act or regulations or with order made under Part I of Act (specify),,,nova scotia,
+"December, 2020","December, 2020",,,,,29,1000,,HPA 71(b),Person failing to comply with Part I of Act or regulations or with order made under Part I of Act (specify),,,nova scotia,
+"January, 2021","January, 2021",,,,,25,1000,,HPA 71(b),Person failing to comply with Part I of Act or regulations or with order made under Part I of Act (specify),,,nova scotia,
+"February, 2021","February, 2021",,,,,39,1000,,HPA 71(b),Person failing to comply with Part I of Act or regulations or with order made under Part I of Act (specify),,,nova scotia,
+"February 22-28, 2021","February 22-28, 2021",,,,,2,5000,,,business violation,,manitoba,manitoba,41
+"February 15-21, 2021","Feb 15-21, 2021",,,,,0,5000,,,business violation,,manitoba,manitoba,40
+"February 8-14, 2021","Feb 8-14, 2021",,,,,3,5000,,,business violation,,manitoba,manitoba,39
+"February 1-7, 2021","Feb 1-7, 2021",,,,,1,5000,,,business violation,,manitoba,manitoba,38
+"January 25-31, 2021","Jan 25-31, 2021",,,,,0,5000,,,business violation,,manitoba,manitoba,37
+"January 18-24, 2021","Jan 18-24, 2021",,,,,1,5000,,,business violation,,manitoba,manitoba,36
+"January 11-17, 2021","Jan 11-17, 2021",,,,,1,5000,,,business violation,,manitoba,manitoba,35
+"January 4-10, 2021","Jan 4-10, 2021",,,,,6,5000,,,business violation,,manitoba,manitoba,34
+"December 28, 2020-January 3, 2021","Dec 28, 2020-Jan 3, 2021",,,,,0,5000,,,business violation,,manitoba,manitoba,33
+"December 21-27, 2020","Dec 21-27, 2020",,,,,3,5000,,,business violation,,manitoba,manitoba,32
+"December 14-20, 2020","Dec 14-20, 2020",,,,,2,5000,,,business violation,,manitoba,manitoba,31
+"December 7-13, 2020","Dec 7-13, 2020",,,,,7,5000,,,business violation,,manitoba,manitoba,30
+"November 30-December 6, 2020","Nov 30-Dec 6, 2020",,,,,9,5000,,,business violation,,manitoba,manitoba,29
+"November 23-29, 2020","Nov 23-29, 2020",,,,,22,5000,,,business violation,,manitoba,manitoba,28
+"February 22-28, 2021","February 22-28, 2021",,,,,7,298,,,failure to wear mask,,manitoba,manitoba,41
+"February 15-21, 2021","Feb 15-21, 2021",,,,,5,298,,,failure to wear mask,,manitoba,manitoba,40
+"February 8-14, 2021","Feb 8-14, 2021",,,,,16,298,,,failure to wear mask,,manitoba,manitoba,39
+"February 1-7, 2021","Feb 1-7, 2021",,,,,6,298,,,failure to wear mask,,manitoba,manitoba,38
+"January 25-31, 2021","Jan 25-31, 2021",,,,,14,298,,,failure to wear mask,,manitoba,manitoba,37
+"January 18-24, 2021","Jan 18-24, 2021",,,,,16,298,,,failure to wear mask,,manitoba,manitoba,36
+"January 11-17, 2021","Jan 11-17, 2021",,,,,9,298,,,failure to wear mask,,manitoba,manitoba,35
+"January 4-10, 2021","Jan 4-10, 2021",,,,,8,298,,,failure to wear mask,,manitoba,manitoba,34
+"December 28, 2020-January 3, 2021","Dec 28, 2020-Jan 3, 2021",,,,,6,298,,,failure to wear mask,,manitoba,manitoba,33
+"December 21-27, 2020","Dec 21-27, 2020",,,,,4,298,,,failure to wear mask,,manitoba,manitoba,32
+"December 14-20, 2020","Dec 14-20, 2020",,,,,12,298,,,failure to wear mask,,manitoba,manitoba,31
+"December 7-13, 2020","Dec 7-13, 2020",,,,,5,298,,,failure to wear mask,,manitoba,manitoba,30
+"November 30-December 6, 2020","Nov 30-Dec 6, 2020",,,,,15,298,,,failure to wear mask,,manitoba,manitoba,29
+"November 23-29, 2020","Nov 23-29, 2020",,,,,23,298,,,failure to wear mask,,manitoba,manitoba,28
+"February 22-28, 2021","February 22-28, 2021",,,,,8,1296,,,various offences,,manitoba,manitoba,41
+"February 15-21, 2021","Feb 15-21, 2021",,,,155,21,1296,,,various offences,,manitoba,manitoba,40
+"February 8-14, 2021","Feb 8-14, 2021",,,,130,7,1296,,,various offences,,manitoba,manitoba,39
+"February 1-7, 2021","Feb 1-7, 2021",,,,99,31,1296,,,various offences,,manitoba,manitoba,38
+"January 25-31, 2021","Jan 25-31, 2021",,,,159,42,1296,,,various offences,,manitoba,manitoba,37
+"January 18-24, 2021","Jan 18-24, 2021",,,,205,29,1296,,,various offences,,manitoba,manitoba,36
+"January 11-17, 2021","Jan 11-17, 2021",,,,183,66,1296,,,various offences,,manitoba,manitoba,35
+"January 4-10, 2021","Jan 4-10, 2021",,,,249,33,1296,,,various offences,,manitoba,manitoba,34
+"December 28, 2020-January 3, 2021","Dec 28, 2020-Jan 3, 2021",,,,279,49,1296,,,various offences,,manitoba,manitoba,33
+"December 21-27, 2020","Dec 21-27, 2020",,,,193,51,1296,,,various offences,,manitoba,manitoba,32
+"December 14-20, 2020","Dec 14-20, 2020",,,,283,48,1296,,,various offences,,manitoba,manitoba,31
+"December 7-13, 2020","Dec 7-13, 2020",,,,294,36,1296,,,various offences,,manitoba,manitoba,30
+"November 30-December 6, 2020","Nov 30-Dec 6, 2020",,,,285,53,1296,,,various offences,,manitoba,manitoba,29
+"November 23-29, 2020","Nov 23-29, 2020",,,,202,48,1296,,,various offences,,manitoba,manitoba,28
+"November 16-22, 2020","Nov 16-22, 2020",,,,79,95,,,,unspecified,,manitoba,manitoba,27
+"November 9-15, 2020","Nov 9-15, 2020",,,,54,32,,,,unspecified,,manitoba,manitoba,26
+"November 2-8, 2020","Nov 2-8, 2020",,,,28,11,,,,unspecified,,manitoba,manitoba,25
+"October 26-November 1, 2020","Oct 26-Nov 1, 2020",,,,11,3,,,,unspecified,,manitoba,manitoba,24
+"October 19-25, 2020","Oct 19-25, 2020",,,,5,3,,,,unspecified,,manitoba,manitoba,23
+"October 13-18, 2020","Oct 13-18, 2020",,,,7,2,,,,unspecified,,manitoba,manitoba,22
+"October 5-12, 2020","Oct 5-12, 2020",,,,2,4,,,,unspecified,,manitoba,manitoba,21
+"September 28-October 4, 2020","Sept 28-Oct 4, 2020",,,,0,3,,,,unspecified,,manitoba,manitoba,20
+"September 21-28, 2020","Sept 21-28, 2020",,,,3,2,,,,unspecified,,manitoba,manitoba,19
+"September 14-20, 2020","Sept 14-20, 2020",,,,5,3,,,,unspecified,,manitoba,manitoba,18
+"September 8-13, 2020","Sept 8-13, 2020",,,,7,2,,,,unspecified,,manitoba,manitoba,17
+"August 31-September 7, 2020","Aug 31-Sept 7, 2020",,,,1,4,,,,unspecified,,manitoba,manitoba,16
+"August 24-30, 2020","Aug 24-30, 2020",,,,6,3,,,,unspecified,,manitoba,manitoba,15
+"August 17-23, 2020","Aug 17-23, 2020",,,,1,1,,,,unspecified,,manitoba,manitoba,14
+"August 10-16, 2020","Aug 10-16, 2020",,,,4,5,,,,unspecified,,manitoba,manitoba,13
+"August 4-9, 2020","Aug 4-9, 2020",,,,2,0,,,,unspecified,,manitoba,manitoba,12
+"July 27-August 3, 2020","Jul 27-Aug 3, 2020",,,,2,3,,,,unspecified,,manitoba,manitoba,11
+"July 20-26, 2020","Jul 20-26, 2020",,,,1,4,,,,unspecified,,manitoba,manitoba,10
+"July 13-19, 2020","Jul 13-19, 2020",,,,0,0,,,,unspecified,,manitoba,manitoba,9
+"July 6-12, 2020","Jul 6-12, 2020",,,,3,4,,,,unspecified,,manitoba,manitoba,8
+"June 29-July 5, 2020","Jun 29-Jul 5, 2020",,,,3,6,,,,unspecified,,manitoba,manitoba,7
+"June 22-28, 2020","Jun 22-28, 2020",,,,0,5,,,,unspecified,,manitoba,manitoba,6
+"June 15-21, 2020","Jun 15-21, 2020",,,,1,0,,,,unspecified,,manitoba,manitoba,5
+"June 8-14, 2020","Jun 8-14, 2020",,,,4,6,,,,unspecified,,manitoba,manitoba,4
+"June 1-7, 2020","Jun 1-7, 2020",,,,4,6,,,,unspecified,,manitoba,manitoba,3
+"May 25-31, 2020","May 25-31, 2020",,,,8,5,,,,unspecified,,manitoba,manitoba,2
+"May 18-24, 2020","May 18-24, 2020",,,,10,11,,,,unspecified,,manitoba,manitoba,1
+"November 30-December 6, 2020","Nov 30-Dec 6, 2020",,,,,8,448,,,band bylaw,,manitoba,manitoba,29
+"November 23-29, 2020","Nov 23-29, 2020",,,,,7,448,,,band bylaw,,manitoba,manitoba,28
+"March, 2021","March, 2021",,,,,320,,,,EMERGENCY MGMT CIVIL PROT ACT,,ontario,ontario,
+"February, 2021","February, 2021",,,,,57,,,,EMERGENCY MGMT CIVIL PROT ACT,,ontario,ontario,
+"January, 2021","January, 2021",,,,,188,,,,EMERGENCY MGMT CIVIL PROT ACT,,ontario,ontario,
+"December, 2020","December, 2020",,,,,17,,,,EMERGENCY MGMT CIVIL PROT ACT,,ontario,ontario,
+"November, 2020","November, 2020",,,,,45,,,,EMERGENCY MGMT CIVIL PROT ACT,,ontario,ontario,
+"October, 2020","October, 2020",,,,,92,,,,EMERGENCY MGMT CIVIL PROT ACT,,ontario,ontario,
+"September, 2020","September, 2020",,,,,223,,,,EMERGENCY MGMT CIVIL PROT ACT,,ontario,ontario,
+"August, 2020","August, 2020",,,,,136,,,,EMERGENCY MGMT CIVIL PROT ACT,,ontario,ontario,
+"July, 2020","July, 2020",,,,,142,,,,EMERGENCY MGMT CIVIL PROT ACT,,ontario,ontario,
+"June, 2020","June, 2020",,,,,498,,,,EMERGENCY MGMT CIVIL PROT ACT,,ontario,ontario,
+"May, 2020","May, 2020",,,,,970,,,,EMERGENCY MGMT CIVIL PROT ACT,,ontario,ontario,
+"April, 2020","April, 2020",,,,,791,,,,EMERGENCY MGMT CIVIL PROT ACT,,ontario,ontario,
+"March, 2020","March, 2020",,,,,2,,,,EMERGENCY MGMT CIVIL PROT ACT,,ontario,ontario,
+"March, 2021","March, 2021",,,,,9,,,,QUARANTINE ACT,,ontario,ontario,
+"February, 2021","February, 2021",,,,,2,,,,QUARANTINE ACT,,ontario,ontario,
+"January, 2021","January, 2021",,,,,17,,,,QUARANTINE ACT,,ontario,ontario,
+"December, 2020","December, 2020",,,,,19,,,,QUARANTINE ACT,,ontario,ontario,
+"November, 2020","November, 2020",,,,,14,,,,QUARANTINE ACT,,ontario,ontario,
+"October, 2020","October, 2020",,,,,11,,,,QUARANTINE ACT,,ontario,ontario,
+"September, 2020","September, 2020",,,,,5,,,,QUARANTINE ACT,,ontario,ontario,
+"August, 2020","August, 2020",,,,,11,,,,QUARANTINE ACT,,ontario,ontario,
+"July, 2020","July, 2020",,,,,8,,,,QUARANTINE ACT,,ontario,ontario,
+"June, 2020","June, 2020",,,,,3,,,,QUARANTINE ACT,,ontario,ontario,
+"May, 2020","May, 2020",,,,,1,,,,QUARANTINE ACT,,ontario,ontario,
+"April, 2020","April, 2020",,,,,0,,,,QUARANTINE ACT,,ontario,ontario,
+"March, 2020","March, 2020",,,,,0,,,,QUARANTINE ACT,,ontario,ontario,
+"March, 2021","March, 2021",,,,,365,,,,REOPENING ONTARIO ACT,,ontario,ontario,
+"February, 2021","February, 2021",,,,,167,,,,REOPENING ONTARIO ACT,,ontario,ontario,
+"January, 2021","January, 2021",,,,,1163,,,,REOPENING ONTARIO ACT,,ontario,ontario,
+"December, 2020","December, 2020",,,,,763,,,,REOPENING ONTARIO ACT,,ontario,ontario,
+"November, 2020","November, 2020",,,,,355,,,,REOPENING ONTARIO ACT,,ontario,ontario,
+"October, 2020","October, 2020",,,,,110,,,,REOPENING ONTARIO ACT,,ontario,ontario,
+"September, 2020","September, 2020",,,,,0,,,,REOPENING ONTARIO ACT,,ontario,ontario,
+"August, 2020","August, 2020",,,,,0,,,,REOPENING ONTARIO ACT,,ontario,ontario,
+"July, 2020","July, 2020",,,,,0,,,,REOPENING ONTARIO ACT,,ontario,ontario,
+"June, 2020","June, 2020",,,,,0,,,,REOPENING ONTARIO ACT,,ontario,ontario,
+"May, 2020","May, 2020",,,,,0,,,,REOPENING ONTARIO ACT,,ontario,ontario,
+"April, 2020","April, 2020",,,,,0,,,,REOPENING ONTARIO ACT,,ontario,ontario,
+"March, 2020","March, 2020",,,,,0,,,,REOPENING ONTARIO ACT,,ontario,ontario,
