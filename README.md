@@ -5,6 +5,6 @@ Codebook for figures and analysis in [COVID-19 and Law Enforcement in Canada: Th
 ## Contents
 
 - [R code](ccla-ppmp-may2021-codebook.R) 
-- [covid enforcement data](covid19-data-april-27-2021.csv) 
+- [covid enforcement data](covid_enforcement_data_march2021.csv) 
 - [covid case rate data](covid19-data-april-27-2021.csv)
 - [figures](https://github.com/alexlusco/ccla-ppmp-enforcement-report-may2021/tree/main/figures)
