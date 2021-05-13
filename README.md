@@ -1,4 +1,4 @@
-# COVID-19 and Law Enforcement in Canada: The Second Wave 
+# COVID-19 and Law Enforcement in Canada: The Second Wave (May, 2021)
 
 Codebook for figures and analysis in [COVID-19 and Law Enforcement in Canada: The Second Wave](https://ccla.org/ccla-and-ppmp-release-new-report/)
 
