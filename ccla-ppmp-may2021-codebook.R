@@ -13,7 +13,7 @@
 ##
 ## ---------------------------
 ##
-## Notes: access the full report here: 
+## Notes: access the full report here: https://ccla.org/ccla-and-ppmp-release-new-report/
 ##   
 ##
 ## ---------------------------
